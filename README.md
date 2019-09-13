@@ -12,6 +12,6 @@ Compiling to a deck of cards
     - [ ] how is memory showed? dynamic and static one?
     - [ ] side effects of cards played?
     - [ ] cards with counters
-    - [ ] how to stoer cards themselves in the vm?
+    - [ ] how to store cards themselves in the vm?
     - [ ] garbage management?
     - [ ] see paper for tape? 
