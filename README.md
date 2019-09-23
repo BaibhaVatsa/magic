@@ -14,4 +14,9 @@ Compiling to a deck of cards
     - [ ] cards with counters
     - [ ] how to store cards themselves in the vm?
     - [ ] garbage management?
-    - [ ] see paper for tape? 
+    - [ ] see paper for tape?
+
+## Development Status
+
+Not in active development as I realised that I need to know a lot more things before I start this. Will be committing to this but very slowly.
+ 
